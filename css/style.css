@@ -1,0 +1,44 @@
+* {
+    margin: 0 !important;
+    
+}
+header{
+    color:white !important;
+    text-align:center !important;
+    padding: 1em !important;   
+    background-color: #9AD790 !important;
+}
+
+
+
+main {
+    text-align: justify !important;
+    margin: center !important;
+    position: center !important;
+    padding: 2em !important;
+    width: auto !important;
+    height: auto !important;
+
+     
+}
+
+footer{
+    background-color: #9AD790 !important;
+    color: white !important;
+    text-align: center !important;
+    padding: 2em !important;
+       
+}
+
+div{
+    text-align: justify !important;
+    padding: 1em !important;
+    margin: auto !important;
+     
+}
+
+img{
+    width: 30% !important;
+}
+
+
